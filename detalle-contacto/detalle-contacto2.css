@@ -1,0 +1,19 @@
+body{
+    background-image: url(/assets/ojo_de_dios.jpg);
+    color: #FFFFFF;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.table-container {
+    max-width: 1200px; 
+    margin: 425px;
+    margin-top: 250px;
+}
+
+.table {
+    font-size: 1.3rem;
+    width: 50%;
+}
